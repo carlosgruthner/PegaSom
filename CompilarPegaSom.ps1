@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon=music.ico --add-data "music.ico;." --add-data "C:\Python313\Lib\site-packages\customtkinter;customtkinter" --hidden-import customtkinter --hidden-import yt_dlp --hidden-import darkdetect .\PegaSom.py
