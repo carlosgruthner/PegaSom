@@ -1,0 +1,8 @@
+Instruções para executar o programa.
+
+Antes de Executar o "PegaSom.exe", instale o ambiente base para funcionamento do programa.
+ - Clique no arquivo "BaseInstallPegaSom.ps1" para instalar as dependencias do programa.
+
+Após instalado o ambiente uma vez, não é mais necessário a execução posteriormente.
+
+Com isso, você já pode utilizar o programa normalmente.
