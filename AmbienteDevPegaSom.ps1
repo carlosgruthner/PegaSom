@@ -1,5 +1,5 @@
 # Script PowerShell para instalar dependencias do PegaVideo
-Write-Host "Iniciando instalacao das dependencias do PegaVideo..." -ForegroundColor Green
+Write-Host "Iniciando instalacao das dependencias do PegaSom..." -ForegroundColor Green
 
 # Verifica se o Python esta instalado
 try {
@@ -46,7 +46,7 @@ $dependencies = @(
     "yt-dlp",
     "customtkinter",
     "darkdetect",
-    "pyinstaller",
+    "pyinstaller"
 )
 
 # Instala cada dependencia
